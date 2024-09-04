@@ -1,3 +1,6 @@
+#In this document here we are talking about implementing a spiking neural network and make a training algo
+here we have done the research using python  all are in ipynb file and we have implemented verilog inferensing (testbench.v and )
+
 # Spiking-neural-network-neuromorphic-hardware-FPGA
 This repository include a research of a cutting edge technology which related to the Spiking neural network
 
